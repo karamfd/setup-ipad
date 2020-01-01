@@ -9,8 +9,8 @@ body {
   padding: 0 10%;
   font-family: Tahoma, Verdana, sans-serif;
   font-size: 1.125rem;
-  background-color: hsl(210, 20%, 14%);
-  color: hsl(0, 10%, 85%);
+  background-color: #1d242b;
+  color: #b7c7d7;
   counter-reset: setting;
 }
 
@@ -49,8 +49,8 @@ p {
 
 /* Emphasis, Code and Link */
 em {
-  color: hsl(0, 0%, 98%);
-  background-color: hsl(210, 100%, 60%);
+  color: #fafafa;
+  background-color: #3399ff;
   padding: 0 0.5rem;
 }
 
@@ -61,18 +61,18 @@ em {
 
 .header-link:hover,
 a {
-  color: hsl(210, 100%, 67%);
+  color: #3399ff;
 }
 
 a:hover,
 a:focus {
-  color: hsl(0, 100%, 70%);
+  color: #ff6666;
   outline: 0;
 }
 
 /* Input */
 input:focus {
-  outline: 2px dotted hsl(210, 100%, 67%);
+  outline: 2px dotted #3399ff;
 }
 
 input:checked + label {
