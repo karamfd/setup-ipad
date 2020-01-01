@@ -49,8 +49,8 @@ p {
 
 /* Emphasis, Code and Link */
 em {
-  color: hsl(210, 100%, 8%);
-  background-color: hsl(210, 100%, 67%);
+  color: hsl(0, 0%, 98%);
+  background-color: hsl(210, 100%, 60%);
   padding: 0 0.5rem;
 }
 
